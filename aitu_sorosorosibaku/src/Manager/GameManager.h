@@ -1,0 +1,17 @@
+#ifndef GAME_MANAGER_H
+#define GAME_MANAGER_H
+
+#include "DxLib.h"
+#include "../Definition.h"
+#include "../Singleton.h"
+
+//ÉVÅ[Éìä‘Ç≈ÇÃílÇÃï€ë∂
+class GameManager : public Singleton<GameManager>
+{
+public:
+
+private:
+
+};
+
+#endif // !GAME_MANAGER_H
